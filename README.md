@@ -9,6 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/denvitko/denvitko/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
-<img src="https://user-images.githubusercontent.com/80540449/204174935-8b6f212b-18bc-4bcf-b17e-7130e2404e38.svg" />
+<img src="https://user-images.githubusercontent.com/80540449/204174935-8b6f212b-18bc-4bcf-b17e-7130e2404e38.svg"  width="50px" />
 
 
