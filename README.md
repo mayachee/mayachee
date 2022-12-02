@@ -3,7 +3,7 @@
 - 🎓 I am Mohamed Yassine Ayache (knox), a Front End Web Developer (specializing in React Applications)And UI/UX Design. also I stadent at 1337MED <img src="https://user-images.githubusercontent.com/80540449/204174731-33bc9c60-a8e3-4d51-925a-878cf5695149.svg" width="50px"/>
 - 👀 I’m interested in ... <br>
 - 🌱 I’m currently learning ReactJs&Figma <br>
-- 💞️ I’m looking to collaborate on ... <br>
+- 💞️ I’m looking to collaborate on ..... <br>
 - 📫 How to reach me yassinepro764@gmail.com <br>
 
 
