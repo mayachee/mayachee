@@ -1,10 +1,12 @@
 <h1>Hi There👋</h1>
 <h2>About me</h2>
 - 🎓 I am Mohamed Yassine Ayache (knox), a Front-End Developer (specializing in React Applications) And UI/UX Design. also I stadent at 1337MED 
-<img src="https://user-images.githubusercontent.com/80540449/204174731-33bc9c60-a8e3-4d51-925a-878cf5695149.svg" width="50px"/>
-- 👀 I’m interested in ... <br>
+<div style="position : inline">
+<img src="https://user-images.githubusercontent.com/80540449/205636483-8f80f37b-9301-4049-ace7-87600df7dd55.png" width="80px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205635576-b0b3fe9d-c948-4dcf-946d-b72684b6d88f.png" width="80px"/>
+</div>
+- 👀 I’m interested in React J2EE Figma <br>
 - 🌱 I’m currently learning React(TypeScript)&Figma and 42 Cursus<br>
-- 💞️ I’m looking to collaborate on ..... <br>
 - 📫 How to reach me easy look down 🙂</br> <br>
 <div style="position: center;">
 <a  href="https://www.linkedin.com/in/mohamed-yassine-ayache-875931217">
@@ -44,10 +46,20 @@
 <img src="https://user-images.githubusercontent.com/80540449/205630104-5cbe239e-c87d-4820-bcae-13459dc8d3c9.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205630229-7ef7c438-6413-44ca-aaba-0a43026fe029.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205630395-7e954314-dbbe-47be-9822-eea198c5709f.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205635032-8b016d56-82e0-4207-aa3f-33a1cf4f4c22.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205630905-91180902-7eb5-4f42-a3ab-07532edcdec9.png"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205630337-ecb7e68f-3ca4-4b40-af61-837cc5cb2f4d.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205630296-fe029952-fdd0-49e2-bc89-f201d7877466.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205630607-56810993-709f-427e-8192-d15eb317ccf3.svg"  width="50px"/>
+</div>
+
+<h2>Back-End Development</h2>
+
+<div style="position : inline">
+<img src="https://user-images.githubusercontent.com/80540449/205635156-355b11a2-62b7-46d2-a4c0-83c622ac59a4.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205635182-5b44674e-a952-44e9-b42a-13319003bef7.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205635308-c9fa9a0f-85c6-4f8d-ba13-a7a53b3a7c37.png"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205635996-908185f8-72c1-4102-9dc3-13274335044a.png"  width="100px"/>
 </div>
 
 <h2>UI/UX Design</h2>
