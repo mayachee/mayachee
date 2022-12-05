@@ -32,12 +32,32 @@
 
 <h2>Languages</h2>
 <div style="position : inline">
-<img src="https://user-images.githubusercontent.com/80540449/205087056-83beaa81-64ca-42b2-942d-079717ad1047.svg"  width="50px"/>
-<img src="https://user-images.githubusercontent.com/80540449/205087151-600671f0-21af-4d14-af44-4631476732a3.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205628733-d8aec92f-784f-4ead-a59f-876f86eb7d13.png"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205628792-4ddc86b4-7cdc-4fb7-911e-8c1b36e4569a.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205628902-783e6470-495e-4519-a69f-6276daf57a04.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205628957-767906a9-3d5a-4097-a4ea-22db42235811.svg"  width="50px"/>
 </div>
 
 <h2>Front-End Development</h2>
+
 <div style="position : inline">
-<img src="https://user-images.githubusercontent.com/80540449/205087056-83beaa81-64ca-42b2-942d-079717ad1047.svg"  width="50px"/>
-<img src="https://user-images.githubusercontent.com/80540449/205087151-600671f0-21af-4d14-af44-4631476732a3.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205630104-5cbe239e-c87d-4820-bcae-13459dc8d3c9.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205630229-7ef7c438-6413-44ca-aaba-0a43026fe029.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205630395-7e954314-dbbe-47be-9822-eea198c5709f.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205630905-91180902-7eb5-4f42-a3ab-07532edcdec9.png"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205630337-ecb7e68f-3ca4-4b40-af61-837cc5cb2f4d.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205630296-fe029952-fdd0-49e2-bc89-f201d7877466.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205630607-56810993-709f-427e-8192-d15eb317ccf3.svg"  width="50px"/>
 </div>
+
+<h2>UI/UX Design</h2>
+
+<div style="position : inline">
+<img src="https://user-images.githubusercontent.com/80540449/205634087-c9dfc513-a9e5-457d-9b66-f374fea25496.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205634141-25a2e966-20c8-4786-8d84-3d3919e8fbc1.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205634176-1a8b0431-a918-4b21-9f85-7cc489e77605.svg"  width="50px"/>
+<img src="https://user-images.githubusercontent.com/80540449/205634216-7af88796-18e2-4ced-a862-26b70c52be6f.svg"  width="50px"/>
+</div>
+
+
+
