@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MohamedYassineAYACHE&fontSize=65" width="100%"/>
 <h1>Hi There👋</h1>
 <h2>About me</h2>
 - 🎓 I am Mohamed Yassine Ayache (knox), a Front-End Developer (specializing in React Applications) And UI/UX Design. also I stadent at 1337MED 
@@ -29,6 +30,14 @@
 <img src="https://user-images.githubusercontent.com/80540449/205542797-f4721f9e-ef63-4a0f-986f-43b5414e3e99.svg"  width="50px"/>
 </a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siiine-764&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siiine-764)](https://github.com/깃허브아이디/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=siiine-764)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h1>Skills</h1>
 
@@ -70,6 +79,3 @@
 <img src="https://user-images.githubusercontent.com/80540449/205634176-1a8b0431-a918-4b21-9f85-7cc489e77605.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205634216-7af88796-18e2-4ced-a862-26b70c52be6f.svg"  width="50px"/>
 </div>
-
-
-
