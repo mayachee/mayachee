@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MohamedYassineAYACHE&fontSize=65" width="100%"/>
 <h1>Hi There👋</h1>
 <h2>About me</h2>
-- 🎓 I am Mohamed Yassine Ayache (knox), a Front-End Developer (specializing in React Applications) And UI/UX Design. also I stadent at 1337MED 
+- 🎓 I am Mohamed Yassine Ayache (knox), a Front-End Developer (specializing in React Applications) And UI/UX Design. also I student at 1337MED 
 <div style="position : inline">
 <img src="https://user-images.githubusercontent.com/80540449/205636483-8f80f37b-9301-4049-ace7-87600df7dd55.png" width="80px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205635576-b0b3fe9d-c948-4dcf-946d-b72684b6d88f.png" width="80px"/>
