@@ -36,9 +36,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=siiine-764&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siiine-764&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siiine-764&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=siiine-764)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siiine-764&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <h1>Skills</h1>
 
 <h2>Languages</h2>
