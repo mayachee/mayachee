@@ -5,7 +5,7 @@
 <div style="position : inline">
 <img src="https://user-images.githubusercontent.com/80540449/205636483-8f80f37b-9301-4049-ace7-87600df7dd55.png" width="80px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205635576-b0b3fe9d-c948-4dcf-946d-b72684b6d88f.png" width="80px"/> <br>
-[![mayache-'s 42 stats](https://badge42.vercel.app/api/v2/cldhi5q2x01880fmnd5hfv14u/stats?cursusId=21&coalitionId=281)](https://github.com/JaeSeoKim/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldhi5q2x01880fmnd5hfv14u/stats?cursusId=21&coalitionId=281" alt="mayache-'s 42 stats" /></a>
 </div>
 - 👀 I’m interested in React J2EE Figma <br>
 - 🌱 I’m currently learning React(TypeScript)&Figma and 42 Cursus<br>
