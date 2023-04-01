@@ -73,7 +73,6 @@
 <img src="https://user-images.githubusercontent.com/80540449/205635156-355b11a2-62b7-46d2-a4c0-83c622ac59a4.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205635182-5b44674e-a952-44e9-b42a-13319003bef7.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205635308-c9fa9a0f-85c6-4f8d-ba13-a7a53b3a7c37.png"  width="50px"/>
-<img src="https://user-images.githubusercontent.com/80540449/205635996-908185f8-72c1-4102-9dc3-13274335044a.png"  width="100px"/>
 </div>
 
 <h2>UI/UX Design</h2>
