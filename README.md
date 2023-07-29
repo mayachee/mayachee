@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MohamedYassineAYACHE&fontSize=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yassine&fontSize=65" width="100%"/>
 <h1>Hi There👋</h1>
 <h2>About me</h2>
 - 🎓 I am Mohamed Yassine Ayache (knox), a Front-End Developer (specializing in React Applications) And UI/UX Design. also I student at 1337MED 
