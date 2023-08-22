@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yassine&fontSize=65" width="100%"/>
+<!--img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yassine&fontSize=65" width="100%"/>
 <h1>Hi There👋</h1>
 <h2>About me</h2>
 - 🎓 I am Mohamed Yassine Ayache (knox), a Front-End Developer (specializing in React Applications) And UI/UX Design. also I student at 1337MED 
@@ -7,9 +7,10 @@
 <img src="https://user-images.githubusercontent.com/80540449/205635576-b0b3fe9d-c948-4dcf-946d-b72684b6d88f.png" width="80px"/> <br>
 <!--a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldhi5q2x01880fmnd5hfv14u/stats?cursusId=21&coalitionId=281" alt="mayache-'s 42 stats" /></a-->
 </div>
+<!--
 - 👀 I’m interested in React J2EE Figma <br>
 - 🌱 I’m currently learning React(TypeScript)&Figma and 42 Cursus<br>
-- 📫 How to reach me easy look down 🙂</br>
+- 📫 How to reach me easy look down 🙂</br> -->
 - https://campsite.bio/knox_764 <br><br>
 <div style="position: center;">
 <a  href="https://www.linkedin.com/in/mohamed-yassine-ayache-875931217">
@@ -42,9 +43,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siiine-764&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<h1>Skills</h1>
+<!--h1>Skills</h1>
 
 <h2>Languages</h2>
 <div style="position : inline">
@@ -85,4 +84,4 @@
 <img src="https://user-images.githubusercontent.com/80540449/205634141-25a2e966-20c8-4786-8d84-3d3919e8fbc1.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205634176-1a8b0431-a918-4b21-9f85-7cc489e77605.svg"  width="50px"/>
 <img src="https://user-images.githubusercontent.com/80540449/205634216-7af88796-18e2-4ced-a862-26b70c52be6f.svg"  width="50px"/>
-</div>
+</div-->
