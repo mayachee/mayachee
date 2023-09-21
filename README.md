@@ -67,9 +67,6 @@
 <img src="https://user-images.githubusercontent.com/80540449/205635308-c9fa9a0f-85c6-4f8d-ba13-a7a53b3a7c37.png"  width="50px"/>
 </div>
 
-
-.......
-
 <h2>UI/UX Design</h2>
 
 <div style="position : inline">
