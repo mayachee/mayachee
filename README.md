@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning React(TypeScript)&Figma and 42 Cursus<br>
 - 📫 How to reach me easy look down 🙂</br> -->
 - https://campsite.bio/knox_764 <br><br>
-<div style="position: center;">
+<!--div style="position: center;">
 <a  href="https://www.linkedin.com/in/mohamed-yassine-ayache-875931217">
 <img src="https://user-images.githubusercontent.com/80540449/205543096-1d223587-8484-4c0f-bcf6-b6fe7c11d84d.svg"  width="50px"/>
 </a>
 
-<a  href="https://www.figma.com/@knox764">
+<!--a  href="https://www.figma.com/@knox764">
 <img src="https://user-images.githubusercontent.com/80540449/205542488-2e07d336-ac48-4664-819a-9851b53344b5.svg"  width="50px"/>
 </a>
 
@@ -25,7 +25,7 @@
 <a  href="mailto:yassinepro764@gmail.com">
 <img src="https://user-images.githubusercontent.com/80540449/205542797-f4721f9e-ef63-4a0f-986f-43b5414e3e99.svg"  width="50px"/>
 </a>
-</div>
+</div-->
 
 
 # 📊 GitHub Stats:
