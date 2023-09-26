@@ -9,14 +9,6 @@
 <img src="https://user-images.githubusercontent.com/80540449/205543096-1d223587-8484-4c0f-bcf6-b6fe7c11d84d.svg"  width="50px"/>
 </a>
 
-
-
-
-
-
-
-
-
 <a  href="https://www.figma.com/@knox764">
 <img src="https://user-images.githubusercontent.com/80540449/205542488-2e07d336-ac48-4664-819a-9851b53344b5.svg"  width="50px"/>
 </a>
