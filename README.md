@@ -11,7 +11,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/mohamed-yassine-ayache-875931217/">LinkedIn</a>
 ├─◈ <a href="">Twitter</a>
 ├─◈ <a href="">Instagram</a>
 ├─◈ Discord:
@@ -21,17 +21,17 @@
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="">libft</a>
-├─◈ <a href="">get_next_line</a>
-├─◈ <a href="">ft_printf</a>
-├─◈ <a href="">Born2beRoot</a>
-├─◈ <a href="">minitalk</a>
-├─◈ <a href="">so_long</a>
-├─◈ <a href="">push_swap</a>
-├─◈ <a href="">Philosophers</a>
-├─◈ <a href="">minishell</a>
-├─◈ <a href="">Cub3D</a>
-├─◈ <a href="">CPP_Modules</a>
+├─◈ <a href="https://github.com/siiine-764/Libft_Cursus_2022">libft</a>
+├─◈ <a href="https://github.com/siiine-764/get_next_line-42">get_next_line</a>
+├─◈ <a href="https://github.com/siiine-764/ft_printf">ft_printf</a>
+├─◈ <a href="https://github.com/siiine-764/Born2beroot-42">Born2beRoot</a>
+├─◈ <a href="https://github.com/siiine-764/mini_talk">minitalk</a>
+├─◈ <a href="https://github.com/siiine-764/so_long">so_long</a>
+├─◈ <a href="https://github.com/siiine-764/push_swap_global">push_swap</a>
+├─◈ <a href="https://github.com/siiine-764/Philosophers">Philosophers</a>
+├─◈ <a href="https://github.com/siiine-764/mini_shell">minishell</a>
+├─◈ <a href="https://github.com/siiine-764/game3D">Cub3D/Game 3D</a>
+├─◈ <a href="https://github.com/siiine-764/cppmodel">CPP_Modules</a>
 │
 └───────────────────────────────▰▰▰
 
