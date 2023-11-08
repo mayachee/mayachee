@@ -12,7 +12,6 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/mohamed-yassine-ayache-875931217/">LinkedIn</a>
-├─◈ <a href="https://knox764.netlify.app">Portfolio</a>
 ├─◈ Discord:
 │
 └───────────────────────────────▰▰▰
