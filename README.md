@@ -12,6 +12,7 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/mohamed-yassine-ayache-875931217/">LinkedIn</a>
+├─◈ <a href="LinkedIn</a>https://twitter.com/Yacine58632727">Twitter/X</a>
 ├─◈ Discord:
 │
 └───────────────────────────────▰▰▰
