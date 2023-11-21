@@ -52,11 +52,6 @@
   <img  src="https://github.com/RealWorga/RealWorga/blob/main/snake.svg" alt="snake" />
 </div>
 
-<a href="https://github.com/siiine-764/">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siiine-764&theme=github_dark"
-  alt="Summary" /></a>
-
-
 
 
 
