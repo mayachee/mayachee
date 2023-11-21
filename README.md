@@ -49,7 +49,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=siiine-764&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-
+<a href="https://github.com/siiine-764/">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siiine-764&theme=github_dark"
+  alt="Summary" /></a>
 
 
 
