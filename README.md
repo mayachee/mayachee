@@ -2,7 +2,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Engineer Student at 1337 Med
+├─▣ Software Engineer Student at 1337 Coding School
 ├─▣ Full Stack Developer
 │
 └───────────────────────────────▰▰▰
