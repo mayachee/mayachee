@@ -24,7 +24,7 @@
 ├─◈ <a href="https://github.com/siiine-764/ft_printf">ft_printf</a>
 ├─◈ <a href="https://github.com/siiine-764/Born2beroot-42">Born2beRoot</a>
 ├─◈ <a href="https://github.com/siiine-764/mini_talk">minitalk</a>
-├─◈ <a href="https://github.com/siiine-764/so_long">so_long</a>
+├─◈ <a href="https://github.com/siiine-764/so_long">so_long / Game 2D</a>
 ├─◈ <a href="https://github.com/siiine-764/push_swap_global">push_swap</a>
 ├─◈ <a href="https://github.com/siiine-764/Philosophers">Philosophers</a>
 ├─◈ <a href="https://github.com/siiine-764/mini_shell">minishell</a>
