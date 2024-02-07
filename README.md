@@ -1,7 +1,4 @@
 <pre>
-
-  <img src="https://i.pinimg.com/564x/8d/10/69/8d10690b4b2755761c15f0fbff3986b9.jpg" width="97%" height="auto">
-
   
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
