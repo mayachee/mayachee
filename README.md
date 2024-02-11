@@ -1,5 +1,6 @@
+  ![1707661881042](https://github.com/siiine-764/siiine-764/assets/80540449/f66427ac-d2f4-462e-9f1e-5c2f63be7014)
 <pre>
-  
+
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Software Engineer Student at 1337 Coding School
