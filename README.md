@@ -1,5 +1,6 @@
-  ![1707661881042](https://github.com/siiine-764/siiine-764/assets/80540449/f66427ac-d2f4-462e-9f1e-5c2f63be7014)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tmpk6oncvwwxdad1qlm5xmh3v&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <pre>
+
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
@@ -55,5 +56,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siiine-764&theme=github_dark"
   alt="Summary" /></a>
 
+  ![1707661881042](https://github.com/siiine-764/siiine-764/assets/80540449/f66427ac-d2f4-462e-9f1e-5c2f63be7014)
 
 
