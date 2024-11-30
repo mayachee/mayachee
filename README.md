@@ -1,5 +1,5 @@
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tmpk6oncvwwxdad1qlm5xmh3v&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-<pre>
+[![<username>'s 42 stats](https://badge.mediaplus.ma/black/mayache-)](https://github.com/oakoudad/badge42)
+
 
 
 ┌──┤ WHOAMI ├─────────▰▰▰
