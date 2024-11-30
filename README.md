@@ -1,6 +1,8 @@
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/black/mayache-)](https://github.com/oakoudad/badge42)
 
+<pre>
+  
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Software Engineer Student at 1337 Coding School
@@ -41,20 +43,20 @@
 │
 └───────────────────────────────▰▰▰
 </pre>
-
+<!-- >
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=siiine-764&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siiine-764&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siiine-764&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siiine-764&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=siiine-764&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
 
 <a href="https://github.com/siiine-764/">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siiine-764&theme=github_dark"
   alt="Summary" /></a>
 
-  ![1707661881042](https://github.com/siiine-764/siiine-764/assets/80540449/f66427ac-d2f4-462e-9f1e-5c2f63be7014)
+  ![1707661881042](https://github.com/siiine-764/siiine-764/assets/80540449/f66427ac-d2f4-462e-9f1e-5c2f63be7014) <-->
 
 
