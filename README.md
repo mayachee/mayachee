@@ -5,7 +5,7 @@
   
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Engineer Student at 1337 Coding School
+├─▣ Software Engineer Student
 ├─▣ UI/UX Designer
 │
 └───────────────────────────────▰▰▰
