@@ -5,7 +5,7 @@
 │
 ├─▣ Software Engineer
 ├─▣ UI/UX Designer
-├─▣ I love the Architect project
+├─▣ I love to do the Architect project
 ├─▣ Interested in low-level Programming, UI/UX Design, DevOps, Cloud and AI.
 │
 └───────────────────────────────▰▰▰
