@@ -10,12 +10,6 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="https://www.linkedin.com/in/mayachee/">LinkedIn</a>
-│
-└───────────────────────────────▰▰▰
-
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/siiine-764/Born2beroot-42">Born2beRoot</a>
