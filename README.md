@@ -2,7 +2,7 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Im mayache
-├─▣ Software Engineer
+├─▣ IT Architecture student
 ├─▣ Product Designer
 ├─▣ I love to do the Architect project
 ├─▣ Interested in Programming, UI/UX Design and DevOps.
