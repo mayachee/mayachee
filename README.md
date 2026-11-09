@@ -1,6 +1,6 @@
 <div align="center">
 
-### Software & IT Systems Architecture • Product Designer • DevOps
+### Software & IT Systems Architecture • DevOps
 
 <img src="https://github.com/user-attachments/assets/698902fb-8b9a-43ff-98bf-e8c290bbd47a" width="120" alt="Mayache Badge 1" />
 &nbsp;&nbsp;&nbsp;&nbsp;
