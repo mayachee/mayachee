@@ -2,6 +2,8 @@
 
 ### Software & IT Systems Architecture • DevOps
 
+<img width="120" alt="The greatest German philosopher_ The first of a new society" src="https://github.com/user-attachments/assets/925cf65a-1273-4ac8-a59f-5f3583349375" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/698902fb-8b9a-43ff-98bf-e8c290bbd47a" width="120" alt="Mayache Badge 1" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/cad69411-4d2a-494a-a520-935a68520ccd" width="120" alt="Mayache Badge 2" />
